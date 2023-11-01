@@ -1,0 +1,10 @@
+body {
+    background-color:rgb(50, 2, 154);
+}
+h1 {
+    width: 80%;
+    text-align: center;
+    color: rgb(248, 91, 0);
+    background-color: chartreuse;
+    padding: 10px;
+}
